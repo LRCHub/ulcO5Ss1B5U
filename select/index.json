@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "Calling After Me",
+  "base_artist": "Wallows",
+  "createdAt": "2026-02-09T16:09:41.866028Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Calling After Me",
+      "artist": "Wallows",
+      "has_synced": true,
+      "path": "select/01_Calling_After_Me_Wallows.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Calling After Me",
+      "artist": "Wallows",
+      "has_synced": true,
+      "path": "select/02_Calling_After_Me_Wallows.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Calling After Me",
+      "artist": "Wallows",
+      "has_synced": true,
+      "path": "select/03_Calling_After_Me_Wallows.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Calling After Me",
+      "artist": "Wallows",
+      "has_synced": true,
+      "path": "select/04_Calling_After_Me_Wallows.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Calling After Me (Paused)",
+      "artist": "Wallows",
+      "has_synced": true,
+      "path": "select/05_Calling_After_Me_(Paused)_Wallows.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Calling After Me",
+      "artist": "Wallows",
+      "has_synced": false,
+      "path": "select/pl_01_Calling_After_Me_Wallows.txt"
+    }
+  ]
+}
