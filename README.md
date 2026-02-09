@@ -1,0 +1,53 @@
+# Wallows – Calling After Me
+
+> **歌詞登録ステータス：同期歌詞あり**
+
+```lrc
+[00:14.11] Who's somebody you know you shouldn't call?
+[00:17.66] Who were you kissing in the back of your car?
+[00:21.48] Who's the one, the one who got away?
+[00:24.96] Who are you thinking of when you end the day?
+[00:47.46] 
+[00:27.75] 'Cause I know you can see
+[00:32.93] We're more than a secret
+[00:34.74] You know I can be
+[00:39.90] Just what you want
+[00:48.90] 
+[00:42.58] 'Cause I've been out until the morning
+[00:46.44] And I don't think I'll last another night
+[00:49.89] I knew the feeling would be forming
+[00:53.03] After I took a look into your eyes
+[00:56.68] But are you ready for it, darling?
+[00:59.91] I'll take all your responsibilities
+[01:03.46] And you've got everybody calling
+[01:07.05] But I know that you're calling after me
+[01:26.55] 
+[01:15.77] Don't play dumb, I know you fantasize
+[01:19.52] You could have me on my back every night
+[01:23.05] I don't mind the things that you've been doing
+[01:26.53] Think you need someone like me to get through it
+[01:50.53] 
+[01:29.32] And I know you can see
+[01:35.04] We'll let people talk
+[01:36.20] And you know we can be
+[01:41.60] Just what they want
+[01:51.10] 
+[01:44.41] 'Cause I've been out until the morning
+[01:47.92] And I don't think I'll last another night
+[01:51.23] I knew the feeling would be forming
+[01:54.89] After I took a look into your eyes
+[01:58.38] But are you ready for it, darling?
+[02:01.67] I'll take all your responsibilities
+[02:05.15] And you've got everybody calling
+[02:08.60] But I know that you're calling after me
+[02:28.10] 
+[02:25.53] 'Cause I've been out until the morning
+[02:29.04] And I don't think I'll last another night
+[02:32.36] I knew the feeling would be forming
+[02:35.89] After I took a look into your eyes
+[02:39.48] But are you ready for it, darling?
+[02:42.70] I'll take all your responsibilities
+[02:46.19] And you've got everybody calling
+[02:49.56] But I know that you're calling after me
+[02:57.24] You're calling after me, mmm
+```
